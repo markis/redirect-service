@@ -1,5 +1,6 @@
 const urls = {
     'code-coverage':        'https://marketplace.visualstudio.com/items?itemName=markis.code-coverage',
+    'football':             'https://football.markis.codes',
     'newtab':               'https://chrome.google.com/webstore/detail/newtab/lokmlhkeameimafbgfmkempkfmhcphpa',
     'trutographer':         'http://trulia-innovation.s3-website-us-west-2.amazonaws.com/',
     'optimizing-for-gzip':  'http://s.codepen.io/markis/debug/dvdJbo/vPMKKVwXKGQM'
